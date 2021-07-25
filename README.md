@@ -8,9 +8,10 @@ which might be useful sometimes.
 Well it's aint much but it's for a purpose.
 You can type in your name an hit the "Guess my age"-Button or simply press enter for letting an API guessing your age depending on the name.
 
-## Available Scripts
+## How to use it?
 
-In the project directory, you can run:
+In order to run the application you have to be in the project directory.
+There you can run the following:
 
 ### `npm start`
 
@@ -19,7 +20,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
-
 
 ### `npm run build`
 
