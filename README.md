@@ -1,6 +1,6 @@
 # Easy Fetch
 A small webapplication for typing showing how to work with fetch.
-In this project you can see how to use fetch for a GET-Request.
+In this project you can see how to use fetch some requests.
 In addition to that you can see some techniques of rendering HTML from functions
 which might be useful sometimes.
 
