@@ -19,6 +19,9 @@ export default function Home() {
                 <Link to="/postsample">
                     Simple POST-Request example
                 </Link>
+                <Link to="/fetchinfetch">
+                    Fetch right after a Fetch example
+                </Link>
             </div>
         </div>
     )
